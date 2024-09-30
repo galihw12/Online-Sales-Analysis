@@ -23,7 +23,7 @@
    After judging, the outliers are ignored (details can be seen at "Checking Outliers.sql" inside "data" folder).
 4. Export the cleaned data to .csv file using MySQL.
    (The cleaned version can be seen at "Cleaned Online Sales Data.csv" inside "dashboard" folder).
-5. Starts Exploratory Data Analysis (EDA) to gain insights and create Dashboard using Tableau.
+5. Start Exploratory Data Analysis (EDA) to gain insights and create Dashboard using Tableau.
 6. Save the dashboard to Tableau Public. (Tableau file can be seen at "Online Sales Analysis.twbx" inside "dashboard" folder).
 ```
 ## Notes
