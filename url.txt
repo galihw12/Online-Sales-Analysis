@@ -1,0 +1,5 @@
+Kagglle:
+https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data/data
+
+Tableau:
+https://public.tableau.com/views/OnlineSalesAnalysis_17277101383450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
