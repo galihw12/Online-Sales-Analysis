@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv(r"C:\Users\galih\Documents\Data Analist Project\SQL+Tableau\Data\Cleaned Online Sales Data.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/galihw12/Online-Sales-Analysis-Project/refs/heads/main/data/Online%20Sales%20Data.csv")
 
 fig,ax=plt.subplots(figsize=(15,7))
 sns.boxplot(data=df[['Units_Sold']])
