@@ -1,6 +1,6 @@
 # Online Sales Analysis Dashboard ✨
 
-## Tools Needed
+## Tools
 ```
 -MySQL for Cleaning Data.
 -Visual Studio Code to create a boxplot.
@@ -9,9 +9,8 @@
 ```
 ## Steps
 ```
-1. Open MySQL.
-2. Import the "Online Sales Data.csv" from "Data" folder to MySQL.
-3. Cleaning the data which include:
+1. Import the "Online Sales Data.csv" from "Data" folder using MySQL.
+2. Clean the data which include:
    1) Checking duplicate.
    2) Checking missng values.
    3) Standardizing data.
